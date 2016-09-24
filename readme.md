@@ -1,1 +1,1 @@
-https://travis-ci.org/showyou/travis-sample.svg?branch=master
+[![Build Status](https://travis-ci.org/showyou/travis-sample.svg?branch=master)](https://travis-ci.org/showyou/travis-sample)
